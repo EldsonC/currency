@@ -1,0 +1,36 @@
+.navigator {
+    width: 100%;
+    height: 69px;
+
+    background: #151B25;
+
+    display: flex;
+    justify-content: center;
+}
+.top-bar {
+    width: 90%;
+    height: 100%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.space {
+    padding-right: 13px;
+}
+.select-style {
+    background: transparent;
+    border: none;
+    outline: none;
+
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+
+    color: white;
+}
+.option-style {
+    color: white;
+    background-color: #151B25;
+    border: none;
+}
